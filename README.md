@@ -1,3 +1,3 @@
 "# CSIT314-SBC" 
 
-This application is developed as part of school project to demonstrate integration between a desktop application and mobile webpage backed with a database system. Use the code only for reference purpose and not in real application as it contains security flaws
+This application is developed as part of school project to demonstrate integration between a desktop application and mobile webpage backed with a database system. Use the code only for reference purpose
